@@ -1,0 +1,16 @@
+Problem Statement: The information services client has multiple business units. The time taken to aquire a potential entity as a 
+customer is very long and wants better suggestion of products to the customers in order to appease them
+
+Implemented and built Content based Recommender system, Collaborative recommender system an hybrid models.
+
+Content Based filtering Recommender systems was plausible only with existing customers entry into new business units. Since this mode type cannot 
+handle new customers well.
+
+Collaborative filtering Recommender systems: 2 types were implemented
+1) User - User collaborative filtering:
+
+Recommended products based on the the similarity between the customers
+
+2) Item - Item collaborative filtering
+
+Recommended the products based on the similarity between the products or items based on the ratings given by the users
