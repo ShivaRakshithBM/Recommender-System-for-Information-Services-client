@@ -24,9 +24,9 @@ Combined Content based system and Collaborative filtering by using the average o
 
 Evaluation:
 The recommender systems were evaluated using 3 metrics:
-REcall
-PRecision
-RMSE = Root MEan Squared Error
+Recall
+Precision
+RMSE = Root Mean Squared Error
 
 
 
